@@ -1,0 +1,4 @@
+notes
+*.sh
+!guessinggame.sh
+!list.sh
