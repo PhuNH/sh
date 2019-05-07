@@ -1,4 +1,4 @@
-notes
+/modernish/
 *.sh
 !guessinggame.sh
 !list.sh
